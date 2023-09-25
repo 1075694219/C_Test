@@ -18,8 +18,8 @@ void solve(int n) {
 int main() {
 	int n = 0;
 	cin >> n;
-	cout << "ÇàÍÜÌøÌ¨½×£º" << jump(n)<<endl;
+	cout << "é’è›™è·³å°é˜¶ï¼š" << jump(n)<<endl;
 	solve(n);
-	cout << "ÕûÊıÒò×Ó·Ö½â£º"<<sum;
+	cout << "æ•´æ•°å› å­åˆ†è§£ï¼š"<<sum;
 
 }
